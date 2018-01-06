@@ -1,0 +1,23 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>top.duckduck</groupId>
+    <artifactId>duckduck-parent</artifactId>
+    <version>1.0</version>
+  </parent>
+  
+  <groupId>top.duckduck</groupId>
+  <artifactId>duckduck-services</artifactId>
+  <version>1.0</version>
+  <packaging>pom</packaging>
+ 
+  <modules>
+  	<module>duckduck-services-userservice</module>
+  	<module>duckduck-services-common</module>
+  	<module>duckduck-services-orderservice</module>
+  	<module>duckduck-services-merchantservice</module>
+  	<module>duckduck-services-memberservice</module>
+  	<module>duckduck-services-goodsservice</module>
+  	<module>duckduck-services-evaluateservice</module>
+  </modules>
+</project>

@@ -1,0 +1,35 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <parent>
+    <groupId>top.duckduck</groupId>
+    <artifactId>duckduck-services</artifactId>
+    <version>1.0</version>
+  </parent>
+  <artifactId>duckduck-services-common</artifactId>
+  
+  <dependencies>
+    <dependency>
+        <groupId>org.hibernate.javax.persistence</groupId>
+        <artifactId>hibernate-jpa-2.1-api</artifactId>
+        <version>1.0.0.Final</version>
+    </dependency>
+
+    
+  </dependencies>
+  
+  <build>
+      <plugins>
+          <!-- Support our own plugin -->
+          <plugin>
+              <groupId>org.springframework.boot</groupId>
+              <artifactId>spring-boot-maven-plugin</artifactId>
+              <executions>
+                  <execution>
+                      <phase>none</phase>
+                  </execution>
+              </executions>
+          </plugin>
+      </plugins>
+  </build>
+  
+</project>

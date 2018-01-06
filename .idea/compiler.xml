@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="duckduck-services-common" />
+        <module name="duckduck-services-evaluateservice" />
+        <module name="duckduck-services-goodsservice" />
+        <module name="duckduck-services-memberservice" />
+        <module name="duckduck-services-orderservice" />
+        <module name="duckduck-services-userservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="duckduck-services" target="1.5" />
+      <module name="duckduck-services-common" target="1.5" />
+      <module name="duckduck-services-evaluateservice" target="1.5" />
+      <module name="duckduck-services-goodsservice" target="1.5" />
+      <module name="duckduck-services-memberservice" target="1.5" />
+      <module name="duckduck-services-orderservice" target="1.5" />
+      <module name="duckduck-services-userservice" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

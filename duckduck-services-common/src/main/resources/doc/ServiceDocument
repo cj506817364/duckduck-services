@@ -1,0 +1,7 @@
+#用户服务   duckduck-services-userservice
+#通用包        duckduck-services-common
+#订单服务   duckduck-services-orderservice
+#商户服务   duckduck-services-merchantservice
+#会员服务   duckduck-services-memberservice
+#菜品服务   duckduck-services-goodsservice
+#评价服务   duckduck-services-evaluateservice

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services.iml" filepath="$PROJECT_DIR$/duckduck-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services-common/duckduck-services-common.iml" filepath="$PROJECT_DIR$/duckduck-services-common/duckduck-services-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services-evaluateservice/duckduck-services-evaluateservice.iml" filepath="$PROJECT_DIR$/duckduck-services-evaluateservice/duckduck-services-evaluateservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services-goodsservice/duckduck-services-goodsservice.iml" filepath="$PROJECT_DIR$/duckduck-services-goodsservice/duckduck-services-goodsservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services-memberservice/duckduck-services-memberservice.iml" filepath="$PROJECT_DIR$/duckduck-services-memberservice/duckduck-services-memberservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services-orderservice/duckduck-services-orderservice.iml" filepath="$PROJECT_DIR$/duckduck-services-orderservice/duckduck-services-orderservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/duckduck-services-userservice/duckduck-services-userservice.iml" filepath="$PROJECT_DIR$/duckduck-services-userservice/duckduck-services-userservice.iml" />
+    </modules>
+  </component>
+</project>

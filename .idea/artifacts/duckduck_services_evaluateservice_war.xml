@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="duckduck-services-evaluateservice:war">
+    <output-path>$PROJECT_DIR$/duckduck-services-evaluateservice/target</output-path>
+    <root id="archive" name="duckduck-services-evaluateservice-1.0.war">
+      <element id="artifact" artifact-name="duckduck-services-evaluateservice:war exploded" />
+    </root>
+  </artifact>
+</component>
